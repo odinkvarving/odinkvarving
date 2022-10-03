@@ -1,6 +1,6 @@
 ### Hey! My name is Odin 👋
 
-## I'm a student at NTNU, going strong on my last year of a bachelor's-degree in Computer-engineering!
+## I'm a Fullstack .NET-developer at SDWorx, currently undergoing a course at Experis Academy
 - 👀 I’m interested in programming, exercise, video games and stocks!
 - 🌱 I’m currently learning Kotlin, Python and C++
 
